@@ -1,0 +1,18 @@
+*{
+    --color1:#072c1f;
+    --color2:#C0FDFB;
+
+
+}
+h1,h2 {
+    color:blue;
+    color: var(--color1);
+}
+.bold {
+    font-weight:bold;
+
+}
+body {
+    font-family: 'Lobster', cursive;
+    background-color: var(--color2)
+}
